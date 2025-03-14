@@ -1,7 +1,6 @@
 heya! I’m @beatrizmaecruz.
 
-i'm currently a 2nd year compsci student, studying at the university of auckland.
-<br>i'm keen to learn all about about front-end, back-end or full stack development!
+i'm currently a 3rd year compsci student, studying at the university of auckland.
 
 reach me through my
 <br>&nbsp; email: beatrizmaecruz@proton.me
