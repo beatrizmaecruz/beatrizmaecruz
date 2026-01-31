@@ -1,6 +1,6 @@
 heya! I’m @beatrizmaecruz.
 
-i'm currently a 3rd year compsci student, studying at the university of auckland.
+i'm currently a computer science graduate, looking for new challenges in the tech world.
 
 reach me through my
 <br>&nbsp; email: beatrizmaecruz@proton.me
